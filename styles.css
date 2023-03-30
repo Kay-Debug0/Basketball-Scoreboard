@@ -1,0 +1,63 @@
+body {
+  background: #1b244a;
+  color: #eeeeee;
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  color: #f94f6d;
+  font-size: 80px;
+  font-weight: 900;
+  margin: 20px;
+  width: 120px;
+}
+
+h3 {
+  color: #eeeeee;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 36px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.score-box {
+  align-items: center;
+  background: #000001;
+  display: flex;
+  height: 120px;
+  justify-content: center;
+  width: 155px;
+  margin: 0px auto 26px;
+}
+
+.points-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  background: none;
+  border: 2px solid #9aabd8;
+  border-radius: 5px;
+  color: #9aabd8;
+  height: 45px;
+  width: 45px;
+}
+
+.rst-container{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+
+.rst {
+
+}
